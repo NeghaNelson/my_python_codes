@@ -1,0 +1,17 @@
+def user_input1():
+    a=int(input("enter the 1st input"))
+    return(a)
+def user_input2():
+    b=int(input("enter the 2nd input"))
+    return (b)
+def addition():
+    A1= user_input1()
+    A2= user_input2()
+    A=A1+A2
+    print (A)
+addition()
+    
+def add1(a,b):
+    print(a+b)
+add1(10,20)
+
