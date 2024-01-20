@@ -1,0 +1,11 @@
+i =int(input("enter the rupees"))
+dolo=i*0.012
+euro=i*1.72
+yen=i*0.016
+candol=i*1.72
+ausdolo=i*0.018
+print("dollors is",dolo)
+print("euros is ",euro)
+print("yen is ",yen)
+print("canadian dollors is ",candol)
+print("australian dolo is ",ausdolo)
